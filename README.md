@@ -2,7 +2,6 @@
 
 # About me
 
-![0C91A1B5-D043-49FB-BE07-F0BDD2B45642.JPG](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F16f8bd6f-8e48-4b4c-b4d7-7373dea294eb%2F0C91A1B5-D043-49FB-BE07-F0BDD2B45642.jpg?table=block&id=d200e1ab-af1e-4fbd-a50c-2fdcc2bc7d6a&spaceId=9e6b1db5-3695-4832-a8bb-81c68c8a1db1&width=860&userId=&cache=v2)
 
 I’m a software developer and math teacher in the Western North Carolina area. I have been doing remote tutoring since 2019 through an agency I founded called [MosaicMath](http://MosaicMath.com), and have been building software professionally since 2021. 
 
@@ -16,13 +15,11 @@ My favorite past times include reading ribbonfarm, e-biking, and watching John C
 A remote-first one-on-one math tutoring agency.
 > 
 
-![612937db6db103a0b4222e72_275DD497-2311-4BA8-8A52-F68778AAD64B_1_105_c.jpeg](I'm%20Nathan%20Welcome%20to%20my%20website%20d200e1abaf1e4fbda50c2fdcc2bc7d6a/612937db6db103a0b4222e72_275DD497-2311-4BA8-8A52-F68778AAD64B_1_105_c.jpeg)
 
 > **[A Julia Set Generator for a rational family](https://observablehq.com/@nathanabram/exploring-a-complex-rational-function)**
 This is a fractal generator, built on math similar to that behind the Mandelbrot set, just with a different function.
 > 
 
-![Screen Shot 2022-04-10 at 9.42.20 PM.png](I'm%20Nathan%20Welcome%20to%20my%20website%20d200e1abaf1e4fbda50c2fdcc2bc7d6a/Screen_Shot_2022-04-10_at_9.42.20_PM.png)
 
 > [Mirror Article Scrapper](https://github.com/nathanabram/Mirror.XYZ-Scraper)
 A tool to scrape the Areweave blockchain for all [Mirror.xyz](http://Mirror.xyz) posts. I used this to produce analysis of all mirror publications for the Labs division of Diamond DAO. Could be used to scrape data from other Areweave apps.
@@ -52,8 +49,3 @@ Some code build to generate Ngrams based on user input, to generate random works
 A Python3 tool to export your Things 3 database to a CSV, using the [Things Python API](https://github.com/thingsapi/things.py).****
 > 
 
----
-
-### **Say Hello**
-
-**Email: `[Nathan@NathanAbram.com](mailto:nathan@nathanabram.com)`**
